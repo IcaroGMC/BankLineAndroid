@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">BankLineAndroid</string>
+    <string name="txtPrimaryText">Hello World!</string>
+</resources>
